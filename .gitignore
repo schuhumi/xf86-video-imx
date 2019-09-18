@@ -1,0 +1,9 @@
+Makefile
+config.h
+config.log
+config.status
+libtool
+man/Makefile
+src/.deps/
+src/Makefile
+stamp-h1
